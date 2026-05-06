@@ -46,5 +46,4 @@ their connections — all without sending a single cold DM.
 - Python 3.11+
 - Node.js 18+
 - PostgreSQL
-- LinkedIn Developer App credentials
 
